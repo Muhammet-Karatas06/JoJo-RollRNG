@@ -7,7 +7,6 @@
 
 ## Stands
 
-     **Star Platinum Hermit Purple Hierophant Green Magician Red Silver Chariot The World Crazy Diamond The Hand Echoes Heaven's Doo Hot Chilie Pepper Killer Queen Golden Experience
-    Six Pistols Aerosmith Sticky Finger Moody Blues Purple Haze Metallica King Crimson Stone Free**
+     **Star Platinum Hermit Purple Hierophant Green Magician Red Silver Chariot The World Crazy Diamond The Hand Echoes Heaven's Doo Hot Chilie Pepper Killer Queen Golden Experience Six Pistols Aerosmith Sticky Finger Moody Blues Purple Haze Metallica King Crimson Stone Free**
 
 
