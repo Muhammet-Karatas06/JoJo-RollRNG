@@ -8,7 +8,7 @@ public class RollSpec {
 public void RollSpecFunc() {
     
     List<String> Specs = new ArrayList<>(List.of(
-    "*Jonathan Hamon*","*William Hamon*","Vampirism*","*Dio Brando's Vampirism*","*Joseph Hamon*","*Ceaser Hamon*","*Lisa Lisa Hamon*","*Pillarman : Super Flexibility*","*Pillarman : Warrior of Wind*","*Pillarman : Crying Flame*",
+    "*Jonathan Hamon*","*William Hamon*","*Vampirism*","*Dio Brando's Vampirism*","*Joseph Hamon*","*Ceaser Hamon*","*Lisa Lisa Hamon*","*Pillarman : Super Flexibility*","*Pillarman : Warrior of Wind*","*Pillarman : Crying Flame*",
     "*Pillarman : Mastermind of Light*","Peacemaker","Spin","Luck"));
 
 
