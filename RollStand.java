@@ -3,26 +3,23 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class RollAction {
+public class RollStand {
 
-public static void main(String[] args) {
+public void RollStandFunc() {
     
-List<String> Stands = new ArrayList<>(List.of(
+    List<String> Stands = new ArrayList<>(List.of(
     "Star Platinum","Hermit Purple","Hierophant Green","Magician Red","Silver Chariot","The World","Crazy Diamond","The Hand","Echoes","Heaven's Door","Hot Chilie Pepper","Killer Queen","Golden Experience",
     "Six Pistols","Aerosmith","Sticky Finger","Moody Blues","Purple Haze","Metallica","King Crimson","Stone Free"));
 
 
 
+System.out.println("\nLet's Start");
 
+Random RNGStand = new Random();
 
-System.out.println("Let's Start");
+int NumberStand = RNGStand.nextInt(Stands.size());
 
-Random RNG = new Random();
-
-int Number = RNG.nextInt(Stands.size());
-
-System.out.println(Stands.get(Number));
-
+System.out.println("\n"+Stands.get(NumberStand));
 
 }
 

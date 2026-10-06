@@ -56,3 +56,40 @@
 ### Part VI Stone Ocean
 
 *Stone Free*
+
+
+## Specs
+
+### Part I Phantom Blood
+
+*Jonathan Hamon*
+
+*William Hamon*
+
+*Vampirism*
+
+*Dio Brando's Vampirism*
+
+### Part II Battle Tendency
+
+*Joseph Hamon*
+
+*Ceaser Hamon*
+
+*Lisa Lisa Hamon*
+
+*Pillarman : Super Flexibility*
+
+*Pillarman : Warrior of Wind*
+
+*Pillarman : Crying Flame*
+
+*Pillarman : Mastermind of Light*
+
+### Part VII
+
+*Spin*
+
+*Luck*
+
+*Peacemaker*
