@@ -7,4 +7,52 @@
 
 ## Stands
 
-**Star Platinum Hermit Purple Hierophant Green Magician Red Silver Chariot The World Crazy Diamond The Hand Echoes Heaven's Doo Hot Chilie Pepper Killer Queen Golden Experience Six Pistols Aerosmith Sticky Finger Moody Blues Purple Haze Metallica King Crimson Stone Free**
+### Part III Stardust Crusaders
+
+*Star Platinum*
+
+*Hermit Purple*
+
+*Hierophant Green*
+
+*Magician Red*
+
+*Silver Chariot*
+
+*The World*
+
+### Part IV Diamond is Unbreakable
+
+*Crazy Diamond*
+
+*The Hand*
+
+*Echoes*
+
+*Heaven's Door*
+
+*Hot Chili Pepper*
+
+*Killer Queen*
+
+### Part V Golden Wind
+
+*Golden Experience*
+
+*Six Pistols*
+
+*Aerosmith*
+
+*Sticky Finger*
+
+*Moody Blues*
+
+*Purple Haze*
+
+*Metallica*
+
+*King Crimson*
+
+### Part VI Stone Ocean
+
+*Stone Free*
